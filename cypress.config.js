@@ -23,7 +23,7 @@ module.exports = defineConfig({
   // Cypress.expose("ABP_ADMIN_EMAIL"), etc. come from the repository's .env.
   expose: {
     ...abp,
-    seed: 0xf1ae533d,
+    seed: 0xf1ae503d,
     delay: 1000,
     actions: {
       click: 10,
